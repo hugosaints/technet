@@ -148,19 +148,19 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://painel.dutrasystem.net/picture/120/120_app_dialog_image_success_5E8B67E6E3BF43460F04.png", 
+      "value": "", 
       "id": 5143, 
       "name": "app_dialog_image_success"
     }, 
     {
       "user_id": 27, 
-      "value": "https://painel.dutrasystem.net/picture/120/120_app_dialog_image_fail_D582E0EE4F783363B275.png", 
+      "value": "", 
       "id": 5144, 
       "name": "app_dialog_image_fail"
     }, 
     {
       "user_id": 27, 
-      "value": "https://painel.dutrasystem.net/picture/120/120_app_dialog_image_success_5E8B67E6E3BF43460F04.png", 
+      "value": "", 
       "id": 5145, 
       "name": "app_dialog_image_validate"
     }, 
