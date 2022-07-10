@@ -160,7 +160,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.ibb.co/FsJD5bz/20220628-194452.png", 
+      "value": "https://painel.dutrasystem.net/picture/120/120_app_dialog_image_success_5E8B67E6E3BF43460F04.png", 
       "id": 5145, 
       "name": "app_dialog_image_validate"
     }, 
@@ -172,7 +172,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "27_app_dialog_image_limit_exceeded_7C3A884BF2A948617329.png", 
+      "value": "https://painel.dutrasystem.net/picture/120/120_app_dialog_image_fail_D582E0EE4F783363B275.png", 
       "id": 5147, 
       "name": "app_dialog_image_limit_exceeded"
     }, 
