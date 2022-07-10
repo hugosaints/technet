@@ -94,25 +94,25 @@
     },
     {
       "user_id": 27, 
-      "value": "#000000e0", 
+      "value": "#000000eb", 
       "id": 3134, 
       "name": "app_dialog_config_background_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#000000e0", 
+      "value": "#000000eb", 
       "id": 3135, 
       "name": "app_config_item_background_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#000000e0", 
+      "value": "#000000eb", 
       "id": 3136, 
       "name": "app_dialog_success_background_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#000000e0", 
+      "value": "#000000eb", 
       "id": 3137, 
       "name": "app_dialog_error_background_color"
     }, 
