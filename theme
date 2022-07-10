@@ -45,13 +45,13 @@
     }, 
     {
       "user_id": 27, 
-      "value": "250", 
+      "value": "350", 
       "id": 557, 
       "name": "logo_height"
     }, 
     {
       "user_id": 27, 
-      "value": "250", 
+      "value": "350", 
       "id": 558, 
       "name": "logo_width"
     }, 
@@ -70,19 +70,19 @@
     }, 
     {
       "user_id": 27, 
-      "value": "200", 
+      "value": "250", 
       "id": 2383, 
       "name": "logo_height"
     }, 
     {
       "user_id": 27, 
-      "value": "200", 
+      "value": "250", 
       "id": 2384, 
       "name": "logo_width"
     }, 
     {
       "user_id": 27, 
-      "value": "https://t.me/satanloud", 
+      "value": "https://t.me/contato_infinity4g", 
       "id": 2385, 
       "name": "app_conta_link"
     }, 
@@ -94,25 +94,25 @@
     },
     {
       "user_id": 27, 
-      "value": "#222222", 
+      "value": "#000000e0", 
       "id": 3134, 
       "name": "app_dialog_config_background_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#333333", 
+      "value": "#000000e0", 
       "id": 3135, 
       "name": "app_config_item_background_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#222222", 
+      "value": "#000000e0", 
       "id": 3136, 
       "name": "app_dialog_success_background_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#222222", 
+      "value": "#000000e0", 
       "id": 3137, 
       "name": "app_dialog_error_background_color"
     }, 
