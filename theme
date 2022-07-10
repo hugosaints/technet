@@ -148,19 +148,19 @@
     }, 
     {
       "user_id": 27, 
-      "value": "27_app_dialog_image_sucess_CB677A56822C494CF87B.png", 
+      "value": "https://painel.dutrasystem.net/picture/120/120_app_dialog_image_validate_C95210362DEBE34DD4AF.png", 
       "id": 5143, 
       "name": "app_dialog_image_success"
     }, 
     {
       "user_id": 27, 
-      "value": "27_app_dialog_image_fail_CB677A56822C494CF87B.png", 
+      "value": "https://painel.dutrasystem.net/picture/120/120_app_dialog_image_fail_D582E0EE4F783363B275.png", 
       "id": 5144, 
       "name": "app_dialog_image_fail"
     }, 
     {
       "user_id": 27, 
-      "value": "27_app_dialog_image_validate_CB677A56822C494CF87B.png", 
+      "value": "https://painel.dutrasystem.net/picture/120/120_app_dialog_image_validate_C95210362DEBE34DD4AF.png", 
       "id": 5145, 
       "name": "app_dialog_image_validate"
     }, 
