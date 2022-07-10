@@ -27,13 +27,13 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#000000bd", 
+      "value": "#1D7EC2", 
       "id": 41, 
       "name": "button_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#FFFFFF", 
+      "value": "#1D7EC2", 
       "id": 42, 
       "name": "icon_color"
     }, 
